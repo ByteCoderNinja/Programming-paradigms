@@ -1,0 +1,10 @@
+Să se proiecteze și să se implementeze o aplicație jurnal, folosind PyQt5, care să:
+preia dintr-un fișier text câte un citat la întâmplare la fiecare deschidere a aplicației și
+să îl afișeze pe pagina principală;
+aibă o zonă de text editabilă în care se pot adăuga intrări în jurnal, sau se pot consulta
+intrările vechi (deci trebuie adăugate două butoane: Load și Save); intrările în jurnal
+pot fi salvate individual pe disk ca fișiere text cu un timestamp ca denumire;
+[OPȚIONAL]: să se implementeze funcționalitatea de adăugare a citatelor noi în
+fișierul text din interfața grafică
+
+haha
