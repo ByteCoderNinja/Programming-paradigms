@@ -8,6 +8,6 @@ Lab 6: POO in Python
 Lab 7: Working with Dates in history.log file in Kotlin    
 Lab 9: Design Patterns in Python    
 Lab 10: Corutine in Kotlin    
-Lab 11: Python parallel programming
-Lab 12: Functional Kotlin
-Lab 13: Functional Python
+Lab 11: Python parallel programming    
+Lab 12: Functional Kotlin    
+Lab 13: Functional Python    
